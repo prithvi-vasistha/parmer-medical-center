@@ -1,0 +1,4 @@
+:HL["/parmer-medical-center/_next/static/chunks/3myoxgd5wv98l.css","style"]
+:HC["/",""]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"qE6NRUCCLO6fsNAIb1rd2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
